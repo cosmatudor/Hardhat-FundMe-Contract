@@ -1,4 +1,4 @@
-# My first Smart Contracts project
+# My first Smart Contract project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
